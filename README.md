@@ -1,2 +1,2 @@
 # AdventofCode-2020
-My Attempts at the brilliant Advent of Code 2020 - using to teach myself GitHub as well as relearn Python
+My attempts at the 2020 Advent of Code Challenges using Python 3.6.9
